@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddf5e46d-9d6f-4ff2-a6e3-99849f4db1d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/djroco.com/src/components/Contact.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djroco.com/src/views/Contact.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djroco.com/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/djroco.com/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djroco.com/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/djroco.com/src/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djroco.com/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/djroco.com/src/views/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djroco.com/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/djroco.com/src/views/Home.vue" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/djroco.com" />
+  </component>
+  <component name="ProjectId" id="1P0ieJmAGesWWl8TmU3E7OwC7xK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddf5e46d-9d6f-4ff2-a6e3-99849f4db1d4" name="Default Changelist" comment="" />
+      <created>1565017508404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565017508404</updated>
+      <workItem from="1565017510156" duration="12362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
