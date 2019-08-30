@@ -7,7 +7,7 @@
 
     <br>
 
-    <div v-if="count === 1">
+    <div v-if="cout === 1">
       This information is displayed
     </div>
 
